@@ -1,11 +1,9 @@
 project:
-  type: website
+  type: mintlify
 
 format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+  mintlify-md:
+    code-fold: true
 
 website:
   twitter-card: true
